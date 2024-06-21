@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Properties</title>
+</head>
+<body>
+<h1>Properties</h1>
+<ul>
+    <li th:each="property : ${properties}">
+        <span th:text="${property.address}"></span> -
+        <span th:text="${property.description}"></span> -
+        $<span th:text="${property.rentAmount}"></span>
+    </li>
+</ul>
+</body>
+</html>

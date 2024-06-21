@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Leases</title>
+</head>
+<body>
+<h1>Leases</h1>
+<ul>
+    <li th:each="lease : ${leases}">
+        Property: <span th:text="${lease.property.address}"></span>,
+        Tenant: <span th:text="${lease.tenant.name}"></span>,
+        From: <span th:text="${lease.startDate}"></span> To: <span th:text="${lease.endDate}"></span>
+    </li>
+</ul>
+</body>
+</html>

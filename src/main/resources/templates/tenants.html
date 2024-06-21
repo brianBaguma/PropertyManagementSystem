@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Tenants</title>
+</head>
+<body>
+<h1>Tenants</h1>
+<ul>
+  <li th:each="tenant : ${tenants}">
+    <span th:text="${tenant.name}"></span> -
+    <span th:text="${tenant.email}"></span>
+  </li>
+</ul>
+</body>
+</html>
