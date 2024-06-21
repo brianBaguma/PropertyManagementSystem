@@ -9,8 +9,12 @@ This setup provides a robust and scalable property management system with a clea
 This approach ensures seamless integration between the frontend and backend, leveraging the strengths of the Spring ecosystem for a robust and maintainable application.
 
 
+Use Case Diagram
+
 ![7EC87701-9F86-450D-8A0B-1EAFDFE4C4AD.jpeg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2F7EC87701-9F86-450D-8A0B-1EAFDFE4C4AD.jpeg)
 
 
+
+ER and Architecture Diagram
 
 ![IMG_8939.jpg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2FIMG_8939.jpg)
