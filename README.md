@@ -9,22 +9,23 @@ This approach ensures seamless integration between the frontend and backend, lev
 
 Requirements Analysis
 
-Property Management:
+1) Property Management:
 
 Add, update, and delete property listings.
 Store detailed property information including address, description, rent amount, and availability status.
-Tenant Management:
 
+2) Tenant Management:
 Add, update, and delete tenant information.
 Maintain tenant records with personal details such as name, email, and contact information.
-Lease Management:
 
+3) Lease Management:
 Create, update, and terminate lease agreements.
 Track lease details including start date, end date, rent amount, and associated property and tenant.
-User Authentication and Authorization:
 
+4) User Authentication and Authorization:
 Secure login and registration for users.
 Role-based access control (e.g., admin, property manager, tenant) to ensure appropriate access to system features.
+
 
 Use Case Diagram
 
