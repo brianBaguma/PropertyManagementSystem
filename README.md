@@ -7,6 +7,24 @@ This setup provides a robust and scalable property management system with a clea
   This project uses Spring Boot for the backend and Thymeleaf for the frontend. The backend exposes RESTful APIs for managing properties, tenants, and leases, while the frontend uses Thymeleaf templates to render dynamic HTML pages. The ViewController handles routing and populating the model with data from the services.
 This approach ensures seamless integration between the frontend and backend, leveraging the strengths of the Spring ecosystem for a robust and maintainable application.
 
+Requirements Analysis
+
+Property Management:
+
+Add, update, and delete property listings.
+Store detailed property information including address, description, rent amount, and availability status.
+Tenant Management:
+
+Add, update, and delete tenant information.
+Maintain tenant records with personal details such as name, email, and contact information.
+Lease Management:
+
+Create, update, and terminate lease agreements.
+Track lease details including start date, end date, rent amount, and associated property and tenant.
+User Authentication and Authorization:
+
+Secure login and registration for users.
+Role-based access control (e.g., admin, property manager, tenant) to ensure appropriate access to system features.
 
 Use Case Diagram
 
