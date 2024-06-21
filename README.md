@@ -16,7 +16,7 @@ Use Case Diagram
 
 ER and Architecture Diagram
 
-![IMG_8939.jpg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2FIMG_8939.jpg)![FA6F1482-7211-4141-B227-2C15FB634298.jpeg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2FFA6F1482-7211-4141-B227-2C15FB634298.jpeg)
+![IMG_8939.jpg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2FIMG_8939.jpg)
 
 
 Class Diagram and interaction 
