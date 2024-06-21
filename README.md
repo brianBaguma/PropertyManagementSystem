@@ -7,3 +7,10 @@ The Property Management System is a web-based application designed to streamline
 This setup provides a robust and scalable property management system with a clear separation of concerns between the frontend and backend, leveraging the strengths of both Spring Boot and React.
   This project uses Spring Boot for the backend and Thymeleaf for the frontend. The backend exposes RESTful APIs for managing properties, tenants, and leases, while the frontend uses Thymeleaf templates to render dynamic HTML pages. The ViewController handles routing and populating the model with data from the services.
 This approach ensures seamless integration between the frontend and backend, leveraging the strengths of the Spring ecosystem for a robust and maintainable application.
+
+
+![7EC87701-9F86-450D-8A0B-1EAFDFE4C4AD.jpeg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2F7EC87701-9F86-450D-8A0B-1EAFDFE4C4AD.jpeg)
+
+
+
+![IMG_8939.jpg](src%2Fmain%2Fjava%2Fmiu%2Fedu%2FSpringSecurity%2Fimages%2FIMG_8939.jpg)
